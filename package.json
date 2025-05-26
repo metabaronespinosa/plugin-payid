@@ -1,5 +1,5 @@
 {
-  "name": "@elizaos/plugin-payid",
+  "name": "@elizaos/plugin-reveel-payid",
   "version": "0.0.3",
   "type": "module",
   "main": "dist/index.js",
